@@ -252,6 +252,21 @@ Prefab:
       propertyPath: m_Name
       value: neg_charge_point (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 250661019567407346, guid: 8c77185f5dad67c4c82534486164f998,
+        type: 2}
+      propertyPath: m_DistanceScale
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 250661019567407346, guid: 8c77185f5dad67c4c82534486164f998,
+        type: 2}
+      propertyPath: m_ForceMagnitude
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 250661019567407346, guid: 8c77185f5dad67c4c82534486164f998,
+        type: 2}
+      propertyPath: m_Drag
+      value: 0.05
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8c77185f5dad67c4c82534486164f998, type: 2}
   m_IsPrefabAsset: 0
@@ -418,6 +433,21 @@ Prefab:
     - target: {fileID: 4090930473330060, guid: 8c77185f5dad67c4c82534486164f998, type: 2}
       propertyPath: m_RootOrder
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 250661019567407346, guid: 8c77185f5dad67c4c82534486164f998,
+        type: 2}
+      propertyPath: m_DistanceScale
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 250661019567407346, guid: 8c77185f5dad67c4c82534486164f998,
+        type: 2}
+      propertyPath: m_ForceMagnitude
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 250661019567407346, guid: 8c77185f5dad67c4c82534486164f998,
+        type: 2}
+      propertyPath: m_Drag
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8c77185f5dad67c4c82534486164f998, type: 2}
