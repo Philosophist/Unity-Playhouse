@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 250100749904434034}
   - component: {fileID: 58749478086168414}
   m_Layer: 0
-  m_Name: charge_point
+  m_Name: charge_point(1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
