@@ -2,9 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour {
+public class PlayerController : MonoBehaviour
+{
     private Rigidbody2D rb2d;
     public float speed = 0.5f;
+
+    public float charge = 10f;
+
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
